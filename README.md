@@ -2,10 +2,13 @@
 
 Paper2GUI: An AI desktop APP toolbox for ordinary people. It's ready to use out-of-the-box with no installation required. It already supports 50+ AI models, covering areas like AI painting, speech synthesis, video frame interpolation, video super-resolution, background music separation, subtitle translation, OCR recognition, and more. Supports Windows, Mac, and Linux systems.
 
-<p align="center"><a href="README_en.md">English</a> | 中文 | <a href="https://t.me/baiyueblog">Telegram</a> | <a href="https://www.bilibili.com/video/BV1jY411u7yU">Bilibili (Media)</a></p>
+ <a href="https://t.me/baiyueblog">Telegram (Chinese) </a> | <a href="https://www.bilibili.com/video/BV1jY411u7yU">Bilibili (Media) (Chinese)</a></p>
 
 ![](docs/images/xiaobaituai.jpg)
 
+
+
+### Chinese versions!
 Download Little Rabbit AI (小白兔 AI):
 | System  | Architecture | Format | Notes                       | Download                                                                            |
 | ------- | ------------ | ------ | --------------------------- | ----------------------------------------------------------------------------------- |
